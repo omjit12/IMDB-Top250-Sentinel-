@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV files
+*.csv
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Power BI files (optional)
+*.pbix
